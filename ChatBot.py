@@ -7,7 +7,7 @@ from discord.ext import commands
 
 '''https://www.devdungeon.com/content/make-discord-bot-python, documentation about how to make the chat bot'''
 
-TOKEN = 'NTEwNTU1NTc3ODE1MDA3MjMz.DseD7Q.Q7sdQq4g_BWNxp1qpWNphOrgHOs'
+TOKEN = '*** TOKEN ***'
 client = commands.Bot(command_prefix = ".")#establishing the Discord client that is connecting do discord
 greating =['hello', 'bonjour', 'hey', 'hi', 'sup', 'morning', 'hola', 'ohai', 'yo']
 goodbyes =['bye','see you','See ya','see you soon','Take it easy','take care','take care of yourself','hope to see you soon']
